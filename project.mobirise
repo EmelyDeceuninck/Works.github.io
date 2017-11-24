@@ -1,0 +1,412 @@
+{
+  "settings": {
+    "name": "works",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "4.4.1",
+    "uniqCompNum": 11,
+    "versionPublish": "4.4.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "text": "&nbsp;'Faces of Ghent'",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": true,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017200-2000x2556.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017200-2000x2556-800x1021.jpg",
+                "alt": "",
+                "caption": "Stranger 1 &nbsp;",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017204-2000x2854.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017204-2000x2854-800x1141.jpg",
+                "alt": "",
+                "caption": "Detail",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017208-2000x2468.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017208-2000x2468-800x986.jpg",
+                "alt": "",
+                "caption": "Stranger 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017210-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017210-2000x1500-800x598.jpg",
+                "alt": "",
+                "caption": "Detail",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017228-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017228-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Detail",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017225-2000x2739.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017225-2000x2739-800x1099.jpg",
+                "alt": "",
+                "caption": "Stranger 4",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017211-2000x2682.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017211-2000x2682-800x1072.jpg",
+                "alt": "",
+                "caption": "Stranger 3",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017215-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017215-2000x2666-800x1056.jpg",
+                "alt": "",
+                "caption": "Detail",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-2"
+        },
+        {
+          "text": "''Naked ''?",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": true,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": false,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/23805658-10207830937489755-722316683-n-2-384x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23805658-10207830937489755-722316683-n-2-384x480-383x479.jpg",
+                "alt": "",
+                "caption": "The Undresser 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/23782179-10207830936529731-220217333-n-384x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23782179-10207830936529731-220217333-n-384x480-383x479.jpg",
+                "alt": "",
+                "caption": "The Undresser 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017267-2-2000x2405.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017267-2-2000x2405-800x963.jpg",
+                "alt": "",
+                "caption": "The shitter 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/23756269-10207830936729736-1033718605-n-384x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23756269-10207830936729736-1033718605-n-384x480-381x480.jpg",
+                "alt": "",
+                "caption": "The shitter 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/23845463-10207830936609733-2080176197-n-384x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23845463-10207830936609733-2080176197-n-384x480-383x480.jpg",
+                "alt": "",
+                "caption": "'The Transformer'",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/23782154-10207830937049744-582688720-n-384x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23782154-10207830937049744-582688720-n-384x480-383x479.jpg",
+                "alt": "",
+                "caption": "'Puberty'",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017301-2000x1736.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017301-2000x1736-800x696.jpg",
+                "alt": "",
+                "caption": "The Bather 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017305-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017305-2000x1500-800x603.jpg",
+                "alt": "",
+                "caption": "The Bather 2",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-1",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+            }
+          }
+        },
+        {
+          "text": "<p>'Selfportraits'</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": true,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017243-1947x2848.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017243-1947x2848-800x1170.jpg",
+                "alt": "",
+                "caption": "Pink Panther",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017230-2000x2561.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017230-2000x2561-800x1024.jpg",
+                "alt": "",
+                "caption": "Green Hornett",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017234-2000x2690.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017234-2000x2690-800x1073.jpg",
+                "alt": "",
+                "caption": "Riding Hood",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017288-1999x2942.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017288-1999x2942-800x1174.jpg",
+                "alt": "",
+                "caption": "In the search",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017261-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017261-2000x2666-800x1066.jpg",
+                "alt": "",
+                "caption": "detail",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017263-2000x2867.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017263-2000x2867-800x1147.jpg",
+                "alt": "",
+                "caption": "selfie 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017257-1878x2920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017257-1878x2920-800x1243.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017265-2000x2784.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017265-2000x2784-800x1113.jpg",
+                "alt": "",
+                "caption": "selfie 2",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-5"
+        },
+        {
+          "text": "<p>'The Innocents'</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-7"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": true,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017269-2000x2764.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017269-2000x2764-800x1058.jpg",
+                "alt": "",
+                "caption": "The other way around 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017276-2000x2335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017276-2000x2335-800x934.jpg",
+                "alt": "",
+                "caption": "'Free'",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017273-2000x2019.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017273-2000x2019-800x807.jpg",
+                "alt": "",
+                "caption": "Pre puberty&nbsp;",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017283-2000x1434.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017283-2000x1434-800x573.jpg",
+                "alt": "",
+                "caption": "The other way around 2",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-8"
+        },
+        {
+          "text": "<p>The models</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": true,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017315-2000x2724.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017315-2000x2724-800x1089.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017246-2000x2730.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017246-2000x2730-800x1095.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017319-1-2000x2741.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017319-2000x2741-800x1098.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017312-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017312-2000x2666-800x1066.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017331-2000x2857.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017331-2000x2857-800x1142.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017342-1882x3647.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017342-1882x3647-800x1498.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017321-1-2000x2834.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017321-1-2000x2834-800x1131.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/p1017329-1-1999x2754.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1017329-1-1999x2754-800x1102.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-a"
+        }
+      ]
+    }
+  }
+}
